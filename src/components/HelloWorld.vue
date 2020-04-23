@@ -65,7 +65,7 @@ export default {
         } else {
           output =
             output +
-            "<span style='background-color: #FFFF00'> " +
+            " <span style='background-color: #FFFF00'>" +
             t1[i] +
             " </span>";
         }
