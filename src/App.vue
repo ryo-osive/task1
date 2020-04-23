@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Task 1"/>
   </div>
 </template>
 
@@ -25,4 +25,7 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+@import url(https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css);
+
 </style>
+
